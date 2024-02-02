@@ -29,7 +29,7 @@ The Sudoku Solver program is a graphical user interface (GUI) application develo
 2. Ensure you have Java and JavaFX installed.
 3. Compile and run the main Java file.
 
-##ScreenShots
+## ScreenShots
 ![image](https://github.com/abdulmoiz248/Sudoku/assets/124524932/1dd9374b-fc8a-4d34-9055-6bcec0d1ee1d)
 
 ## Contributors
